@@ -1,0 +1,11 @@
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+th{
+  padding: 5px 55px;
+  border-bottom: 1px solid white;
+}
