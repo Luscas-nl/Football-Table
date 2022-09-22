@@ -52,7 +52,7 @@ function App() {
       <button className='tableButton' onClick={requestTable}>Mostrar Tabela</button>
 
       <div className="linksBox">
-        <a class="link" href="https://github.com/Luscas-nl/Periodic-Table" target="_blank"><i class="fa fa-github fa-lg fa-inverse"></i></a>
+        <a class="link" href="https://github.com/Luscas-nl/Football-Table" target="_blank"><i class="fa fa-github fa-lg fa-inverse"></i></a>
         <a class="link" href="https://instagram.com/luscas.nl" target="_blank"><i class="fa fa-instagram fa-lg fa-inverse"></i></a>
       </div>
     </div>
