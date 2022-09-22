@@ -1,0 +1,19 @@
+td{
+    border-top: 1px solid white;
+}
+
+tr[type="G4"]:hover{
+    background: linear-gradient(90deg, #00db3796 0%, #09ff0000 100%);
+}
+
+tr[type="F4"]:hover{
+    background: linear-gradient(90deg, #d8000096 0%, #09ff0000 100%);
+}
+
+tr[type="N"]:hover{
+    background: linear-gradient(90deg, #7979798a 0%, #09ff0000 100%);
+}
+
+.teamText{
+    text-align: left;
+}
